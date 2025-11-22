@@ -8,9 +8,8 @@ A lightweight, event-focused conversational agent that reassures hesitant attend
   - Retrieves relevant testimonials (RAG) and an attendee proficiency snapshot
   - Generates empathetic, actionable replies with an LLM
 
-## Demo
-- Website: deployed on Vercel
-- “Chat to know more” deep-link: `https://t.me/teman_ai_companion_bot?start=spanish_meetup_dec5`
+## Deployed Website
+- Live: https://traetraenychackathonu04c.vercel.app
 
 ## Tools Used
 - Node.js (ESM)
