@@ -1,0 +1,19 @@
+{
+  "slug": "teman_book_club_nov22",
+  "title": "Teman Book Club: Cozy Reads & Conversations",
+  "description": "An evening of warm, low-pressure discussion around comfort reads. Newcomers welcome — small-group prompts and a buddy option available.",
+  "date_time": "Sat, Nov 22, 7:00–9:00 PM",
+  "location": "Teman Loft, 125 Orchard St, NYC",
+  "url": "https://lu.ma/teman-book-club-nov22",
+  "guests": [
+    { "name": "Ari", "role": "Host" },
+    { "name": "Maya", "role": "Buddy Mentor" },
+    { "name": "Jon", "role": "Discussion Facilitator" },
+    { "name": "Nina", "role": "Community Mentor" }
+  ],
+  "faqs": [
+    { "q": "Do I need to read a book?", "a": "Bring any favorite or comfort read; no prep required." },
+    { "q": "Can I arrive alone?", "a": "Absolutely. We have buddy mentors to help you settle in." },
+    { "q": "What’s the vibe?", "a": "Cozy, welcoming, and small-group conversations with gentle prompts." }
+  ]
+}

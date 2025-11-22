@@ -1,0 +1,19 @@
+{
+  "slug": "spanish_meetup_dec5",
+  "title": "Spanish Conversation Meetup: Beginner-Friendly Practice",
+  "description": "A relaxed evening to practice Spanish with supportive mentors. Short prompts, small groups, and buddy intros available for newcomers.",
+  "date_time": "Fri, Dec 5, 6:30–8:30 PM",
+  "location": "Teman Loft, 125 Orchard St, NYC",
+  "url": "https://meetup.com/teman-spanish-dec5",
+  "guests": [
+    { "name": "Lucía", "role": "Host" },
+    { "name": "Diego", "role": "Buddy Mentor" },
+    { "name": "Sara", "role": "Facilitator" },
+    { "name": "Mateo", "role": "Community Mentor" }
+  ],
+  "faqs": [
+    { "q": "Do I need to be fluent?", "a": "No. All levels welcome, especially beginners." },
+    { "q": "Will someone help me get started?", "a": "Yes. Ask for a buddy mentor on arrival." },
+    { "q": "What’s the vibe?", "a": "Friendly, low-pressure practice with short, fun prompts." }
+  ]
+}

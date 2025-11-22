@@ -1,0 +1,30 @@
+[
+  {
+    "member_name": "Ari",
+    "anxieties": "I worried I wouldn’t know anyone and conversations would feel forced.",
+    "positive": "Found welcoming people and small-group icebreakers that made chatting easy.",
+    "improve": "More guidance on where to start if arriving alone.",
+    "tags": ["introvert", "first-time", "icebreakers"]
+  },
+  {
+    "member_name": "Maya",
+    "anxieties": "I felt shy and was anxious about not fitting the vibe.",
+    "positive": "Hosts paired me with a buddy; it helped me settle quickly.",
+    "improve": "Clearer schedule so I know what to expect.",
+    "tags": ["shy", "buddy", "schedule"]
+  },
+  {
+    "member_name": "Jon",
+    "anxieties": "I’m new in town and feared awkward silences.",
+    "positive": "The community was kind and conversations flowed after prompts.",
+    "improve": "Quieter corner for breaks.",
+    "tags": ["newcomer", "prompts", "quiet-space"]
+  },
+  {
+    "member_name": "Nina",
+    "anxieties": "I worried about showing up alone and leaving early.",
+    "positive": "Met a mentor who checked in with me; stayed the whole time.",
+    "improve": "Better signage at the venue.",
+    "tags": ["mentor", "first-time", "venue"]
+  }
+]

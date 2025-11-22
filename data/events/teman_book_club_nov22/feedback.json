@@ -1,0 +1,30 @@
+[
+  {
+    "member_name": "Ari",
+    "anxieties": "I worried I wouldn’t know anyone and conversations would feel forced.",
+    "positive": "Small-group prompts made it easy to join in without pressure.",
+    "improve": "Clear sign for the buddy table.",
+    "tags": ["introvert", "first-time", "icebreakers"]
+  },
+  {
+    "member_name": "Maya",
+    "anxieties": "I felt shy and wasn’t sure the vibe fit me.",
+    "positive": "Buddy intro helped me settle; the vibe was calm and welcoming.",
+    "improve": "More examples of prompt questions ahead of time.",
+    "tags": ["shy", "buddy", "schedule"]
+  },
+  {
+    "member_name": "Jon",
+    "anxieties": "New to NYC and anxious about awkward silences.",
+    "positive": "Facilitator prompts kept things flowing and gentle.",
+    "improve": "Quieter corner for breaks.",
+    "tags": ["newcomer", "prompts", "quiet-space"]
+  },
+  {
+    "member_name": "Nina",
+    "anxieties": "Showing up alone felt intimidating.",
+    "positive": "Mentor checked in; stayed the whole time and met friends.",
+    "improve": "Better venue signage.",
+    "tags": ["mentor", "first-time", "venue"]
+  }
+]

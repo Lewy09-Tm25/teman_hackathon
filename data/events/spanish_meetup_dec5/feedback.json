@@ -1,0 +1,30 @@
+[
+  {
+    "member_name": "Lucía",
+    "anxieties": "I’m a beginner and worried I’d freeze when speaking.",
+    "positive": "Short prompts and patient mentors helped me ease in.",
+    "improve": "A list of starter phrases at the door.",
+    "tags": ["beginner", "prompts", "mentor"]
+  },
+  {
+    "member_name": "Diego",
+    "anxieties": "Felt shy about my accent and making mistakes.",
+    "positive": "Buddy intros made practice feel safer and fun.",
+    "improve": "More small-group rotations.",
+    "tags": ["shy", "buddy", "accent"]
+  },
+  {
+    "member_name": "Sara",
+    "anxieties": "Didn’t know if the group would be too advanced.",
+    "positive": "Facilitator set clear levels; beginners had their own prompts.",
+    "improve": "Publish the level breakdown ahead of time.",
+    "tags": ["levels", "beginner", "facilitator"]
+  },
+  {
+    "member_name": "Mateo",
+    "anxieties": "Arriving alone felt intimidating.",
+    "positive": "Mentor checked in and kept conversation flowing.",
+    "improve": "Better signage to the meetup room.",
+    "tags": ["mentor", "first-time", "venue"]
+  }
+]

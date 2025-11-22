@@ -1,0 +1,27 @@
+{
+  "offset": 511937586,
+  "chats": {
+    "1858211759": {
+      "slug": "spanish_meetup_dec5",
+      "stage": "active",
+      "history": [
+        {
+          "role": "user",
+          "content": "Whatis everyone’s Spanish level?"
+        },
+        {
+          "role": "assistant",
+          "content": "You mentioned: \"Whatis everyone’s Spanish level?\"\n\nThanks for sharing. At Spanish Conversation Meetup: Beginner-Friendly Practice, many attendees start with similar feelings.\n\nRSVPs: 15\nBeginners (incl. upper-beginner): 10 (67%)\nIntermediate: 3 (20%)\nAdvanced: 2 (13%)\nWe organize small groups and buddy intros so beginners feel comfortable.\n\nWe group by comfort level and offer buddy intros so beginners feel comfortable.\n\nWould you like an intro to Lucía?"
+        },
+        {
+          "role": "user",
+          "content": "Will people judge me? I don’t know any Spanish."
+        },
+        {
+          "role": "assistant",
+          "content": "You mentioned: \"Will people judge me? I don’t know any Spanish.\"\n\nThanks for sharing. At Spanish Conversation Meetup: Beginner-Friendly Practice, many attendees start with similar feelings.\n\nMembers like Sara and Lucía felt similarly and found that small prompts and a welcoming mentor eased first conversations.\n\nWould you like me to arrange a buddy intro for when you arrive?\n\nWould you like an intro to Sara?"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+  { "name": "Ana", "level": "beginner" },
+  { "name": "Carlos", "level": "beginner" },
+  { "name": "Elena", "level": "upper-beginner" },
+  { "name": "Miguel", "level": "intermediate" },
+  { "name": "Sofía", "level": "beginner" },
+  { "name": "Javier", "level": "intermediate" },
+  { "name": "Lucía", "level": "upper-beginner" },
+  { "name": "Diego", "level": "upper-beginner" },
+  { "name": "Sara", "level": "intermediate" },
+  { "name": "Mateo", "level": "beginner" },
+  { "name": "Paula", "level": "advanced" },
+  { "name": "Andrés", "level": "beginner" },
+  { "name": "Carmen", "level": "beginner" },
+  { "name": "Lola", "level": "beginner" },
+  { "name": "Pablo", "level": "advanced" }
+]
